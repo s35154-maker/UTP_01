@@ -8,6 +8,6 @@ public class Main {
         System.out.println(adder.add(84, 44));
 
         Subtractor subtractor = new Subtractor();
-        System.out.println(subtractor.subtract(6, 3));
+        System.out.println(subtractor.subtract(67, 89));
     }
 }
